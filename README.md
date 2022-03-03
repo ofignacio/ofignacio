@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ofignacio, I’m interested in new technologies and awesome projects, so... if you have something in mind, tell me.
+- 🌱 I’m currently learning nestjs and nextjs
+- 📫 You can reach me through mail ofignacio@gmail.com or linkedin as Ignacio Ocampo.
